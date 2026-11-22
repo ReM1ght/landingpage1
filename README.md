@@ -2,7 +2,7 @@
 
 A responsive static landing page created as a front-end practice project.
 
-**Live demo:** https://rem1ght.github.io/marketing-landing-page/
+**Live demo:** https://rem1ght.github.io/landingpage1/
 
 ## Technologies
 
